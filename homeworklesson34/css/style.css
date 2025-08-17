@@ -1,0 +1,31 @@
+.some-text1 {
+  font-family: "Arial", sans-serif;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: justify;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.some-text2 {
+  font-family: "Helvetica", sans-serif;
+  text-decoration: line-through;
+}
+
+.some-text3 {
+  font-family: "Courier New", serif;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.some-text4 {
+  font-family: "Verdana", sans-serif;
+  text-decoration: overline wavy;
+  word-spacing: 30px;
+}
+
+.some-text5 {
+  font-family: "Georgia", serif;
+  letter-spacing: 5px;
+  text-decoration: underline 5px;
+}
