@@ -1,0 +1,48 @@
+fieldset {
+	font-family: sans-serif;
+	border-radius: 5px;
+	max-width: 350px;
+	border: 2px solid #7e7e7e;
+}
+p {
+	margin-left: 2px;
+	font-weight: bold;
+}
+legend {
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+.forma {
+	border-radius: 5px;
+	height: 20px;
+	padding-left: 10px;
+	border: 2px solid #7e7e7e;
+	min-width: 250px;
+}
+
+textarea {
+	border-radius: 5px;
+	border: 2px solid #7e7e7e;
+	max-width: 250px;
+	min-width: 250px;
+	padding-left: 10px;
+	min-height: 40px;
+}
+
+.label {
+	display: block;
+	font-size: 14px;
+}
+.checkbox {
+	cursor: pointer;
+	margin-top: 10px;
+}
+
+button {
+	cursor: pointer;
+	display: block;
+	margin: 10px;
+	border-radius: 5px;
+	border: none;
+	padding: 5px 15px 5px;
+}
